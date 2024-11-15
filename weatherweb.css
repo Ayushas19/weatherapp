@@ -65,4 +65,13 @@ button:hover{
 .weather-info {
     margin-top: 20px;
 }
+@media screen and (max-width: 768px){
+    body{
+        display: flex;
+        background-image: url(image44.jpg);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+}
 
