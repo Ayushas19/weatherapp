@@ -41,7 +41,7 @@ input[type="text"] {
     border-radius: 5px;
 }
 
-/* button {
+button {
     
     
 }
@@ -55,7 +55,7 @@ button{
 }
 button:active{
     transform: scale(0.96);
-} */
+}
 button:hover .stars {
     display: block;
     filter: drop-shadow(0 0 10px #fffdef);
